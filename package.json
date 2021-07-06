@@ -41,7 +41,7 @@
     "mysql": "^2.4.2",
     "nconf": "~0.6.9",
     "newrelic": "^1.9.2",
-    "sequelize": "^2.0.0-dev12",
+    "sequelize": "^6.6.5",
     "strong-agent": "^0.4.12",
     "nconf": "~0.6.9",
     "request": "~2.27.0",
