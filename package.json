@@ -9,7 +9,7 @@
     "connect-assets": "~2.5.3",
     "express": "~3.4.7",
     "graphdat": "^0.4.6",
-    "grunt": "~0.4.1",
+    "grunt": "~1.5.3",
     "grunt-autoprefixer": "~0.2.0",
     "grunt-cli": "~0.1.13",
     "grunt-concurrent": "~0.3.0",
@@ -54,7 +54,7 @@
     "winston": "~0.7.2"
   },
   "devDependencies": {
-    "grunt": "~0.4.1",
+    "grunt": "~1.5.3",
     "grunt-cli": "~0.1.13",
     "grunt-autoprefixer": "~0.2.0",
     "grunt-concurrent": "~0.3.0",
