@@ -7,7 +7,7 @@
     "bower": "*",
     "coffee-script": "~1.6.3",
     "connect-assets": "~2.5.3",
-    "express": "~3.4.7",
+    "express": "~4.0.0",
     "graphdat": "^0.4.6",
     "grunt": "~0.4.1",
     "grunt-autoprefixer": "~0.2.0",
